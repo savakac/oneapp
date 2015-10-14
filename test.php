@@ -22,7 +22,8 @@
     <p>A testovacie data.</p>
 	Testovacia stranka.
 	<form action="test.php" name="form1" method="post">
-	
+		Meno:<input type="text" name="name"></input>
+		Heslo:<input type="password" name="password"></input>
 	</form>
 
 	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
