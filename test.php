@@ -24,6 +24,7 @@
 	<form action="test.php" name="form1" method="post">
 		Meno:<input type="text" name="name"></input>
 		Heslo:<input type="password" name="password"></input>
+		<input type="submit" name="submit" value="Odoslat"></input>
 	</form>
 
 	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
