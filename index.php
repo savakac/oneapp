@@ -45,7 +45,7 @@
                         </ul>
                     </div>
                     <div class="logo-element">
-                        IN+
+                        IN test page +
                     </div>
                 </li>
                 <li>
