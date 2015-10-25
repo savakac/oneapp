@@ -542,6 +542,7 @@
             </div>
         </div>
         <div class="footer">
+            <div id="footer">contact email: info@gmakers.eu</div>
             <div class="pull-right">
                 10GB of <strong>250GB</strong> Free.
             </div>
