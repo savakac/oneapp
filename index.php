@@ -542,6 +542,9 @@
             </div>
         </div>
         <div class="footer">
+            <div id="footer">
+                conntact eamil: email@support.com
+            </div>
             <div class="pull-right">
                 10GB of <strong>250GB</strong> Free.
             </div>
