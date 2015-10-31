@@ -542,7 +542,13 @@
             </div>
         </div>
         <div class="footer">
+<<<<<<< HEAD
             <div id="footer">contact email: info@gmakers.eu</div>
+=======
+            <div id="footer">
+                conntact eamil: email@support.com
+            </div>
+>>>>>>> dev
             <div class="pull-right">
                 10GB of <strong>250GB</strong> Free.
             </div>
